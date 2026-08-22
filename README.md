@@ -18,8 +18,11 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 ![Treasure Found](output_img/image-2.png)
 ![Treasure Not Found](output_img/image-3.png)
 
-* [x] Day 4 Rock Paper Scissors: Learn Control Flow
+* [x] Day 4 Rock Paper Scissors: Learnt Random module and Python Lists
 ![RPS](output_img//image-4.png)
+
+* [x] Day 5 Random Password Generator: Python Loops
+![alt text](output_img/image-5.png)
 
 ## Daily Rule
 
