@@ -8,8 +8,10 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 
 ## Progress
 
-* [ ] Day 1 Band Name Generator: Learnt to work with variables
-* [ ] Day 2 Tip Calcultor: Understanding Data Types and String Manipulation
+* [x] Day 1 Band Name Generator: Learnt to work with variables
+* [x] Day 2 Tip Calcultor: Understanding Data Types and String Manipulation
+* [x] Day 3 Treasure Island: Learn Control Flow
+
 
 
 ## Daily Rule
