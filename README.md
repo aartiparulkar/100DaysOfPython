@@ -12,14 +12,14 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 ![Band Name Generator](output_img/image.png)
 
 * [x] Day 2 Tip Calcultor: Understanding Data Types and String Manipulation
-![Tip Calculator](output/image-1.png)
+![Tip Calculator](output_img/image-1.png)
 
 * [x] Day 3 Treasure Island: Learn Control Flow
-![Treasure Found](output/image-2.png)
-![Treasure Not Found](output/image-3.png)
+![Treasure Found](output_img/image-2.png)
+![Treasure Not Found](output_img/image-3.png)
 
 * [x] Day 4 Rock Paper Scissors: Learn Control Flow
-![RPS](output/image-4.png)
+![RPS](output_img//image-4.png)
 
 ## Daily Rule
 
