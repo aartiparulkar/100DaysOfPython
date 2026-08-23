@@ -33,9 +33,9 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 
 
 * [x] Day 7 Hangman: Python Loops, Control Flow, Nested Ifs, Randomization, Python List, String Manipulation 
-![Correct Guess](output_img/image-7.pngimage.png)
-![Incorrect Guess](/output_img/image-8.png.png)
-![Game Over](output_img/image-9.pngmage.png)
+![Correct Guess](output_img/image-7.png)
+![Incorrect Guess](/output_img/image-8.png)
+![Game Over](output_img/image-9.png)
 
 ## Daily Rule
 
