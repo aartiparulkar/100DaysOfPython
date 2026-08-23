@@ -11,18 +11,31 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 * [x] Day 1 Band Name Generator: Learnt to work with variables
 ![Band Name Generator](output_img/image.png)
 
+
 * [x] Day 2 Tip Calcultor: Understanding Data Types and String Manipulation
 ![Tip Calculator](output_img/image-1.png)
+
 
 * [x] Day 3 Treasure Island: Learn Control Flow
 ![Treasure Found](output_img/image-2.png)
 ![Treasure Not Found](output_img/image-3.png)
 
+
 * [x] Day 4 Rock Paper Scissors: Learnt Random module and Python Lists
 ![RPS](output_img//image-4.png)
 
+
 * [x] Day 5 Random Password Generator: Python Loops
-![alt text](output_img/image-5.png)
+![Password Generator](output_img/image-5.png)
+
+
+* [x] Day 6 Python Karel: Python Functions
+
+
+* [x] Day 7 Hangman: Python Loops, Control Flow, Nested Ifs, Randomization, Python List, String Manipulation 
+![Correct Guess](output_img/image-7.pngimage.png)
+![Incorrect Guess](/output_img/image-8.png.png)
+![Game Over](output_img/image-9.pngmage.png)
 
 ## Daily Rule
 
