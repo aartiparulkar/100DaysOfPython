@@ -37,6 +37,9 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 ![Incorrect Guess](/output_img/image-8.png)
 ![Game Over](output_img/image-9.png)
 
+* [x] Day 8 Caesar Cipher: Python Functions, Function parameter
+![alt text](output_img/image-10.png)
+
 ## Daily Rule
 
 **Learn → Practice → Build → Commit**
