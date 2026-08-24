@@ -40,6 +40,9 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 * [x] Day 8 Caesar Cipher: Python Functions, Function parameter
 ![alt text](output_img/image-10.png)
 
+
+* [x] Day 9 Blind Auction: Python Dictionaries
+
 ## Daily Rule
 
 **Learn → Practice → Build → Commit**
