@@ -43,6 +43,9 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 
 * [x] Day 9 Blind Auction: Python Dictionaries
 
+* [x] Day 10 Calculator: Python Dictionaries, Function with Outputs, Return statements
+
+
 ## Daily Rule
 
 **Learn → Practice → Build → Commit**
