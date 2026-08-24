@@ -13,27 +13,23 @@ logo = r'''
 '''
 print(logo)
 
-name = input("What is your name? ")
-bid = int(input("How much will you bid? Rs. "))
-
 bids = {}
-bids[name] = bid
 
 continue_bid = True
 while continue_bid:
+    name = input("What is your name? ")
+    bid = int(input("How much will you bid? Rs. "))
+    bids[name] = bid
+    
     more_bid = input("Are there more people who bid? Enter 'yes' or 'no'. ")
-
     if more_bid == 'no':
         continue_bid = False
         break
 
     print("\n" * 20)
-    name = input("What is your name? ")
-    bid = int(input("How much will you bid? Rs. "))
-    bids[name] = bid
 
-max_bid = bids[name]
-winner = name
+max_bid = -1
+winner = ""
 for user_bid in bids:
     if bids[user_bid] > max_bid:
         max_bid = bids[user_bid]
