@@ -8,28 +8,18 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 
 ## Progress
 
-* [x] Day 1 Band Name Generator: Learnt to work with variables
-![Band Name Generator](output_img/image.png)
+* [x] Day 11 Blackjack: Python Variables, Loops, Functions, Control Flow, Decomposing a problem in functions, State management, Algorithmic Thinking, Flowcharts
+![Blackjack Flowchart](output_img/Blackjack%20flowchart.png)
 
 
-* [x] Day 2 Tip Calcultor: Understanding Data Types and String Manipulation
-![Tip Calculator](output_img/image-1.png)
+* [x] Day 10 Calculator: Python Dictionaries, Function with Outputs, Return statements
 
 
-* [x] Day 3 Treasure Island: Learn Control Flow
-![Treasure Found](output_img/image-2.png)
-![Treasure Not Found](output_img/image-3.png)
+* [x] Day 9 Blind Auction: Python Dictionaries
 
 
-* [x] Day 4 Rock Paper Scissors: Learnt Random module and Python Lists
-![RPS](output_img//image-4.png)
-
-
-* [x] Day 5 Random Password Generator: Python Loops
-![Password Generator](output_img/image-5.png)
-
-
-* [x] Day 6 Python Karel: Python Functions
+* [x] Day 8 Caesar Cipher: Python Functions, Function parameter
+![Caesar Cipher Output](output_img/image-10.png)
 
 
 * [x] Day 7 Hangman: Python Loops, Control Flow, Nested Ifs, Randomization, Python List, String Manipulation 
@@ -37,13 +27,29 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 ![Incorrect Guess](/output_img/image-8.png)
 ![Game Over](output_img/image-9.png)
 
-* [x] Day 8 Caesar Cipher: Python Functions, Function parameter
-![alt text](output_img/image-10.png)
+
+* [x] Day 6 Python Karel: Python Functions
 
 
-* [x] Day 9 Blind Auction: Python Dictionaries
+* [x] Day 5 Random Password Generator: Python Loops
+![Password Generator](output_img/image-5.png)
 
-* [x] Day 10 Calculator: Python Dictionaries, Function with Outputs, Return statements
+
+* [x] Day 4 Rock Paper Scissors: Learnt Random module and Python Lists
+![RPS](output_img//image-4.png)
+
+
+* [x] Day 3 Treasure Island: Learn Control Flow
+![Treasure Found](output_img/image-2.png)
+![Treasure Not Found](output_img/image-3.png)
+
+
+* [x] Day 2 Tip Calcultor: Understanding Data Types and String Manipulation
+![Tip Calculator](output_img/image-1.png)
+
+
+* [x] Day 1 Band Name Generator: Learnt to work with variables
+![Band Name Generator](output_img/image.png)
 
 
 ## Daily Rule
