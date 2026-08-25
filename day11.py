@@ -12,10 +12,9 @@ logo = r"""
 """
 print(logo)
 
-cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
-
 
 def count_score(card_list):
+    """Takes a list of cards and returns the score calculated from the cards."""
     score = sum(card_list)
 
     if score > 21 and 11 in card_list:
@@ -26,11 +25,14 @@ def count_score(card_list):
 
 
 def draw_card(card_list):
+    """Draws a card ramdomly from the deck, updates the list of cards and score"""
+    cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
     card_list.append(random.choice(cards))
     return count_score(card_list)
 
 
 def deal():
+    """Distribute 2 cards at the start of the game"""
     hand = []
     draw_card(hand)
     draw_card(hand)
@@ -38,10 +40,12 @@ def deal():
 
 
 def is_blackjack(card_list):
+    """Returns true if there is a blackjack"""
     return len(card_list) == 2 and count_score(card_list) == 21
 
 
 def play_computer_turn(hand):
+    """Draws cards till score exceeds 16."""
     score = count_score(hand)
     while score <= 16:
         # Draw cards till score exceeds 16
@@ -50,19 +54,20 @@ def play_computer_turn(hand):
     return score
 
 def who_is_winner(player, computer):
+    """Compares the user and computer scores"""
     player_score = count_score(player)
     computer_score = count_score(computer)
 
     # 2.a If computer gets blackjack. It wins ---------------------------------------
     if is_blackjack(computer):
-        return "Blackjack! Computer wins."
+        return "Computer has a blackjack. You lose."
 
     # 2.b If player gets a blackjack and computer doesn't. Player wins.
     if is_blackjack(player):
-        return "Blackjack! You Win."
+        return "You win with a blackjack!"
 
     if player_score > 21:
-        return "Bust. You lose."
+        return "Bust... You went over. You lose."
 
     if computer_score > 21:
         return "Computer went over. You win!"
@@ -76,10 +81,9 @@ def who_is_winner(player, computer):
     return "You tie!"
 
 
-print(logo)
-
-while True:
-
+def play_game():
+    print(logo)
+    
     # 1. Draw 2 cards initially ------------------------------------
     computer_hand = deal()
     player_hand = deal()
@@ -117,6 +121,7 @@ while True:
     print(f"Computer's final card: {computer_hand}, final score = {computer_score}")
     print(result)
 
-    choice = input("\nDo you want to play Blackjack again? \nType 'y' to play and 'n' otherwise. ")
-    if choice == 'n':
-        break
+
+while input("\nDo you want to play Blackjack? \nType 'y' to play and 'n' otherwise. ") == 'y':
+    print("\n"*20)
+    play_game()
