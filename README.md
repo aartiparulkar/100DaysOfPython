@@ -8,6 +8,12 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 
 ## Progress
 
+* [x] Day 14 Coffee Machine: Game State, Control Flow, Math Package
+![Coffee](/output_img/image-15.png)
+![Coffee Machine Vitals](/output_img/image-16.png)
+![Insufficient Resources to Make Coffe](/output_img/image-17.png)
+
+
 * [x] Day 13 Higher Lower: Python Fundamentals, Lists & Dictionaries, Functions, Game State, Control Flow, Input validation 
 ![Higher Lower Game Guess-1](output_img/image-13.png)
 ![Higher Lower Game Guess-2](output_img/image-14.png)
