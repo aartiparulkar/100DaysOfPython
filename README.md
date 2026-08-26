@@ -8,6 +8,11 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 
 ## Progress
 
+* [x] Day 13 Higher Lower: Python Fundamentals, Lists & Dictionaries, Functions, Game State, Control Flow, Input validation 
+![Higher Lower Game Guess-1](output_img/image-13.png)
+![Higher Lower Game Guess-2](output_img/image-14.png)
+
+
 * [x] Day 12 Number Guessing Game: Python Variable Scope, Local and Global Variables
 ![Number Guessing game](output_img/image-11.png)
 
