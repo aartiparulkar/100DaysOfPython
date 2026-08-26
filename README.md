@@ -8,6 +8,10 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 
 ## Progress
 
+* [x] Day 12 Number Guessing Game: Python Variable Scope, Local and Global Variables
+![Number Guessing game](output_img/image-11.png)
+
+
 * [x] Day 11 Blackjack: Python Variables, Loops, Functions, Control Flow, Decomposing a problem in functions, State management, Algorithmic Thinking, Flowcharts
 ![Blackjack Flowchart](output_img/Blackjack%20flowchart.png)
 
