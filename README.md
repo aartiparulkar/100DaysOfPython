@@ -9,7 +9,8 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 ## Progress
 
 * [x] Day 15 Bulbasaur Pokémon Card: Python Turtle, OOP, Angles, Radians, Geometry
-https://github.com/user-attachments/assets/4f9f49d1-a32d-4067-9d61-ac10659be686
+
+Watch the animation video here - https://github.com/user-attachments/assets/4f9f49d1-a32d-4067-9d61-ac10659be686
 
 
 * [x] Day 14 Coffee Machine: Game State, Control Flow, Math Package
