@@ -7,6 +7,7 @@ A 100-day journey to learn Python through **daily practice and small projects**.
 Learn Python fundamentals, improve problem-solving, and build something small every day.
 
 ## Progress
+* [x] Day 16 Coffee Machine 2.0: OOP, Classes, Objects, Abstraction, Inheritance, Encapsulation
 
 * [x] Day 15 Bulbasaur Pokémon Card: Python Turtle, OOP, Angles, Radians, Geometry
 
