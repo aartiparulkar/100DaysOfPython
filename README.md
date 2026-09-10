@@ -8,9 +8,12 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 
 ## Progress
 * [x] Day 18 Turtle Paintings: Turtle Graphics, Loops, Randomization, RGB Colors, Functions, Modular Code
+Random Walk - https://github.com/user-attachments/assets/a06241be-2dfb-46f9-95ec-b07172244ccb
 ![Random Shapes](/output_img/image-18.png)
 ![Spirograph](/output_img/image-20.png)
 ![Hirst Painting](/output_img/image-19.png)
+
+
 
 * [x] Day 17 Quiz Game: OOP, Classes, Objects, Open Trivia API, JSON, Dictionary
 
