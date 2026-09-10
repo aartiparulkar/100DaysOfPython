@@ -7,6 +7,11 @@ A 100-day journey to learn Python through **daily practice and small projects**.
 Learn Python fundamentals, improve problem-solving, and build something small every day.
 
 ## Progress
+* [x] Day 18 Turtle Paintings: Turtle Graphics, Loops, Randomization, RGB Colors, Functions, Modular Code
+![Random Shapes](/output_img/image-18.png)
+![Spirograph](/output_img/image-20.png)
+![Hirst Painting](/output_img/image-19.png)
+
 * [x] Day 17 Quiz Game: OOP, Classes, Objects, Open Trivia API, JSON, Dictionary
 
 * [x] Day 16 Coffee Machine 2.0: OOP, Classes, Objects, Abstraction, Inheritance, Encapsulation
