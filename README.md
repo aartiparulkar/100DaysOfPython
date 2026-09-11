@@ -7,15 +7,37 @@ A 100-day journey to learn Python through **daily practice and small projects**.
 Learn Python fundamentals, improve problem-solving, and build something small every day.
 
 ## Progress
-* [x] Day 19 Etch-A-Sketch & Turtle Race: Instances, State & Higher Order Functions, Event Listeners, Coordinate System, Instances, Object States
+* [x] Day 19 Etch-A-Sketch & Turtle Race: Instances, State & Higher-Order Functions, Event Listeners, Coordinate System, Object States
+Turtle Race -
+
+
+https://github.com/user-attachments/assets/2811f1e6-345a-42fb-aaf2-8e76fde8fa37
+
+### Etch-A-Sketch
+
+A simple digital Etch-A-Sketch built using Python Turtle, where the turtle can be controlled with the keyboard to draw and navigate around the screen.
+**Controls:**
+
+* **↑** — Move forward
+* **↓** — Move backward
+* **←** — Turn left
+* **→** — Turn right
+* **C** — Clear the drawing and reset the turtle
+
+
+https://github.com/user-attachments/assets/4242e162-7bdf-4ed5-ae98-a0cb8d716a7b
 
 
 * [x] Day 18 Turtle Paintings: Turtle Graphics, Loops, Randomization, RGB Colors, Functions, Modular Code
-Random Walk - https://github.com/user-attachments/assets/a06241be-2dfb-46f9-95ec-b07172244ccb
+Random Walk -
+
+
+https://github.com/user-attachments/assets/a06241be-2dfb-46f9-95ec-b07172244ccb
+
+
 ![Random Shapes](/output_img/image-18.png)
 ![Spirograph](/output_img/image-20.png)
 ![Hirst Painting](/output_img/image-19.png)
-
 
 
 * [x] Day 17 Quiz Game: OOP, Classes, Objects, Open Trivia API, JSON, Dictionary
@@ -23,8 +45,10 @@ Random Walk - https://github.com/user-attachments/assets/a06241be-2dfb-46f9-95ec
 * [x] Day 16 Coffee Machine 2.0: OOP, Classes, Objects, Abstraction, Inheritance, Encapsulation
 
 * [x] Day 15 Bulbasaur Pokémon Card: Python Turtle, OOP, Angles, Radians, Geometry
+Watch the animation video here:
 
-Watch the animation video here - https://github.com/user-attachments/assets/4f9f49d1-a32d-4067-9d61-ac10659be686
+
+https://github.com/user-attachments/assets/4f9f49d1-a32d-4067-9d61-ac10659be686
 
 
 * [x] Day 14 Coffee Machine: Game State, Control Flow, Math Package
