@@ -7,6 +7,9 @@ A 100-day journey to learn Python through **daily practice and small projects**.
 Learn Python fundamentals, improve problem-solving, and build something small every day.
 
 ## Progress
+* [x] Day 19 Etch-A-Sketch & Turtle Race: Instances, State & Higher Order Functions, Event Listeners, Coordinate System, Instances, Object States
+
+
 * [x] Day 18 Turtle Paintings: Turtle Graphics, Loops, Randomization, RGB Colors, Functions, Modular Code
 Random Walk - https://github.com/user-attachments/assets/a06241be-2dfb-46f9-95ec-b07172244ccb
 ![Random Shapes](/output_img/image-18.png)
