@@ -7,6 +7,12 @@ A 100-day journey to learn Python through **daily practice and small projects**.
 Learn Python fundamentals, improve problem-solving, and build something small every day.
 
 ## Progress
+
+* [x] Day 20 Snake Game: OOP, Inheritance, List Slicing, Animation, Coordinates & Keyboard Controls
+
+
+
+
 * [x] Day 19 Etch-A-Sketch & Turtle Race: Instances, State & Higher-Order Functions, Event Listeners, Coordinate System, Object States
 Turtle Race -
 
