@@ -11,6 +11,7 @@ Learn Python fundamentals, improve problem-solving, and build something small ev
 * [x] Day 20 Snake Game: OOP, Inheritance, List Slicing, Animation, Coordinates & Keyboard Controls
 
 
+https://github.com/user-attachments/assets/9d477f1d-990d-4c26-8b4b-bddf6f2b1706
 
 
 * [x] Day 19 Etch-A-Sketch & Turtle Race: Instances, State & Higher-Order Functions, Event Listeners, Coordinate System, Object States
